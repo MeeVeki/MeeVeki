@@ -13,4 +13,4 @@
 - [Digit Classifier] – Python, scikit-learn  
 
 ## 🌐 Connect
-[LinkedIn](www.linkedin.com/in/mivek-basinc) | [Portfolio](your-site) | [Email](basincmivek@gmail.com)
+[LinkedIn](www.linkedin.com/in/mivek-basinc) | [Email](basincmivek@gmail.com)
